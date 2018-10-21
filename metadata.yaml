@@ -1,5 +1,5 @@
 _repo: The-Parson-s-Daughter-of-Oxney-Colne_3717
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Short stories'
 - !lcsh 'Children of clergy -- Fiction'
 - !lcsh 'Mate selection -- Fiction'
+- GITenberg
 title: The Parson's Daughter of Oxney Colne
 url: http://www.gutenberg.org/ebooks/3717
